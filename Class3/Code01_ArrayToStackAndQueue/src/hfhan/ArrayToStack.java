@@ -79,5 +79,6 @@ public class ArrayToStack {
         arrayToStack.print();
         System.out.println(arrayToStack.pop());
         arrayToStack.print();
+
     }
 }
