@@ -105,5 +105,6 @@ public class ArrayToQueue {
         arrayToQueue.print();
         System.out.println("推出结果：" + arrayToQueue.pop());
         System.out.println("size:" + arrayToQueue.size);
+
     }
 }
