@@ -39,7 +39,7 @@ public class StackGetMin {
 
     public int getMin(){
         if(pushStack.empty()){
-            throw new RuntimeException("栈还是空的!1");
+            throw new RuntimeException("栈还是空的!");
         }
         return this.minStack.peek();
     }
